@@ -49,6 +49,15 @@ python train.py
 We also provide the trained PR model: [Trained PR model](https://drive.google.com/file/d/1WquVC6ei-gkNE_oHm9W6N5iR8gu5XjLB/view?usp=drive_link)
 
 # Citation
-You are welcome to use our dataset and models.
-For citation: 
-Paper in preparation...
+You are welcome to use our dataset and models. 
+For citation following BibTex entry: 
+```bash
+@misc{yang2023chatgpt,
+      title={Is ChatGPT Involved in Texts? Measure the Polish Ratio to Detect ChatGPT-Generated Text}, 
+      author={Lingyi Yang and Feng Jiang and Haizhou Li},
+      year={2023},
+      eprint={2307.11380},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
