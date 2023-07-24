@@ -1,5 +1,5 @@
 # ChatGPT-Detection-PR-HPPT 
-This our dataset and code for the paper: Is ChatGPT Involved in Texts? Measure the Polish Ratio to Detect ChatGPT-Generated Text
+This our dataset and code for the paper: [Is ChatGPT Involved in Texts? Measure the Polish Ratio to Detect ChatGPT-Generated Text](https://arxiv.org/pdf/2307.11380.pdf)
 ![The overall design of our method.](image.png)
 
 
