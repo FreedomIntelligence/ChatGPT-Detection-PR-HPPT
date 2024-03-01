@@ -35,7 +35,7 @@ You can test the custom sample in text_test.txt (only three examples in it):
 python inference.py
 ```
 
-If you do not want to train the model, we provide our trained detector on HPPT: [Trained Detector](https://drive.google.com/file/d/10qTNMj4Fo1GwNXhWtlM5RZK5VXsgOsoD/view?usp=drive_link)
+If you do not want to train the model, we provide our trained detector on HPPT: [Trained Detector on Google driver](https://drive.google.com/file/d/10qTNMj4Fo1GwNXhWtlM5RZK5VXsgOsoD/view?usp=drive_link) and [Trained Detector on Huggingface](https://huggingface.co/FreedomIntelligence/ChatGPT-Detection-PR-HPPT).
 
 4. train a model to get polish ratio
 ```bash
