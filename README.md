@@ -1,5 +1,5 @@
 # ChatGPT-Detection-PR-HPPT 
-This our dataset and code for the paper: [Is ChatGPT Involved in Texts? Measure the Polish Ratio to Detect ChatGPT-Generated Text](https://arxiv.org/pdf/2307.11380.pdf)
+This our dataset and code for the paper: [Is ChatGPT Involved in Texts? Measure the Polish Ratio to Detect ChatGPT-Generated Text](https://www.nowpublishers.com/article/Details/SIP-2023-0050)
 ![The overall design of our method.](image.png)
 
 
@@ -52,12 +52,12 @@ We also provide the trained PR model: [Trained PR model](https://drive.google.co
 You are welcome to use our dataset and models. 
 For citation following BibTex entry: 
 ```bash
-@misc{yang2023chatgpt,
-      title={Is ChatGPT Involved in Texts? Measure the Polish Ratio to Detect ChatGPT-Generated Text}, 
-      author={Lingyi Yang and Feng Jiang and Haizhou Li},
-      year={2023},
-      eprint={2307.11380},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{yang2023chatgpt,
+  title={Is chatgpt involved in texts? measure the polish ratio to detect chatgpt-generated text},
+  author={Yang, Lingyi and Jiang, Feng and Li, Haizhou and others},
+  journal={APSIPA Transactions on Signal and Information Processing},
+  volume={13},
+  number={2},
+  publisher={Now Publishers, Inc.}
 }
 ```
