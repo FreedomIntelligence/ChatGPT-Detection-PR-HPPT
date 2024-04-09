@@ -54,7 +54,7 @@ For citation following BibTex entry:
 ```bash
 @article{yang2023chatgpt,
   title={Is chatgpt involved in texts? measure the polish ratio to detect chatgpt-generated text},
-  author={Yang, Lingyi and Jiang, Feng and Li, Haizhou and others},
+  author={Yang, Lingyi and Jiang, Feng and Li, Haizhou},
   journal={APSIPA Transactions on Signal and Information Processing},
   volume={13},
   number={2},
